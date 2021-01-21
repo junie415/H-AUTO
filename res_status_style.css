@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+#res{
+    margin-top: 28px;
+    margin-bottom: 9px;
+}
+
+form{
+    text-align: center;
+}
+
+div{
+    margin: 0 auto;
+    width: 400px;
+    border: 1px solid gray;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+#contents{
+    border: 0;
+    padding: 10px;
+}
+
+#c1, #c2, #c3, #c4, #c5, #c6, #c7, #c8, #c9, #c10, #c11, #c12 {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 7px;
+}
